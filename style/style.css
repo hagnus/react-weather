@@ -1,0 +1,12 @@
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+.gmap-cell, .gmap-cell > div {
+    height: 150px;
+    width: 200px;
+}
